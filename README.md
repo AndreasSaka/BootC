@@ -1,2 +1,2 @@
 # BootC
-This repo is for the bootcamp courses.
+This repo is random scripts
